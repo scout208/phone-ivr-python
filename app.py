@@ -6,7 +6,7 @@ import plivoxml
 PLIVO_SONG = "https://s3.amazonaws.com/plivocloud/music.mp3"
 
 # This is the message that Plivo reads when the caller dials in
-IVR_MESSAGE1 = "Welcome to the Plivo IVR Demo App. Press 1 to listen to a pre recorded text in different languages.  \
+IVR_MESSAGE1 = "Hi Tess. Welcome to the Plivo IVR app. Press 1 to listen to a pre recorded text in different languages.  \
                 Press 2 to listen to a song."
 
 IVR_MESSAGE2 = "Press 1 for English. Press 2 for French. Press 3 for Russian"
